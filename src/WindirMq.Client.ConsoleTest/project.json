@@ -9,10 +9,8 @@
       "type": "platform",
       "version": "1.0.0-rc2-3002702"
     },
-    "WindirMq.Common": "1.0.5-*",
-    "Microsoft.Extensions.Logging": "1.0.0-rc2-final",
-    "Microsoft.Extensions.Logging.Console": "1.0.0-rc2-final",
-    "Microsoft.Extensions.Logging.Debug": "1.0.0-rc2-final"
+    "WindirMq.Client": "1.0.3-*",
+    "WindirMq.Common": "1.0.5-*"
   },
 
   "frameworks": {

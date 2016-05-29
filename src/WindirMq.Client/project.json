@@ -1,0 +1,15 @@
+{
+  "version": "1.0.3-*",
+  "dependencies": {
+    "System.Net.Sockets": "4.1.0-rc2-24027",
+    "System.Threading.Thread": "4.0.0-rc2-24027",
+    "WindirMq.Common": "1.0.5.*",
+    "Microsoft.Extensions.PlatformAbstractions": "1.0.0-rc2-final"
+  },
+  "frameworks": {
+      "dnxcore50" : { }
+  },
+  "buildOptions": {
+    "xmlDoc": true
+  }
+}

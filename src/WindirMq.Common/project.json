@@ -1,0 +1,13 @@
+{
+  "version": "1.0.5-*",
+
+  "dependencies": {
+    "System.Console": "4.0.0-rc2-24027",
+    "System.IO": "4.1.0-rc2-24027",
+    "System.Runtime.InteropServices": "4.1.0-rc2-24027"
+  },
+
+  "frameworks": {
+      "dnxcore5.0" : {}
+  }
+}
